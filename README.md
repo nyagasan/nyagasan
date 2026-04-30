@@ -8,8 +8,8 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
 - 🧑‍💻 I'm a mobile application developer!
-- 🌱 I’m currently learning kotlin & swift!
-- 📫 How to reach me: [Twitter - @naga_homelab](https://twitter.com/naga_homelab)
+- 📱 I’m currently developing kotlin & swift!
+- 📫 How to reach me: Twitter([@_subnaganaga](https://x.com/_subnaganaga)) and mixi2([@naga](https://mixi.social/@naga))
 <br>
 
 
@@ -17,7 +17,7 @@
 <!-- ライトモート：theme=light, ダークモート：theme=dark -->
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
 ## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=7&i=kotlin,swift,next,figma,notion" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=7&i=kotlin,swift" />
 <br>
 
 
